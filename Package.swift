@@ -15,8 +15,8 @@ let package = Package(
     targets: [
         .binaryTarget(
             name: "NanoGraphFFI",
-            url: "https://github.com/nanograph/nanograph/releases/download/v1.0.0/NanoGraphFFI.xcframework.zip",
-            checksum: "453ae2bce4c1a9d3cf607f433bc10b0b34698caca10acf0d3e82ff205eaf2c80"
+            url: "https://github.com/nanograph/nanograph/releases/download/v1.1.1/NanoGraphFFI.xcframework.zip",
+            checksum: "b56eda731f437f9a06286b1b4f3bc72fde82c54c624a094886066a41ae23644d"
         ),
         .target(
             name: "CNanoGraph",
