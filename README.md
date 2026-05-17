@@ -2,7 +2,7 @@
 
 Generated from the nanograph monorepo.
 
-- Version: 1.2.2
+- Version: 1.3.0
 - Source of truth:
   - Rust FFI: crates/nanograph-ffi/
   - Swift wrapper: crates/nanograph-ffi/swift/
